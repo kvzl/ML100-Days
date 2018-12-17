@@ -1,2 +1,3 @@
 # ML100-Days
-Machine learning 100 days challenge
+
+機器學習 百日馬拉松
