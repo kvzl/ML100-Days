@@ -7,3 +7,4 @@ seaborn
 imblearn
 lightgbm
 opencv-python
+gensim
