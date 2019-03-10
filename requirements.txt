@@ -8,3 +8,5 @@ imblearn
 lightgbm
 opencv-python
 gensim
+keras
+tensorflow
